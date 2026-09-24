@@ -1,0 +1,1 @@
+Data manifest for postpartum-hemorrhage-drill. Raw data files stay in the hospital data lake and are never committed to this repository.
